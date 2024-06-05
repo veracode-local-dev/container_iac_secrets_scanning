@@ -1,5 +1,5 @@
 # Veracode Container/IaC/Secrets Scanning Action
-
+1
 Veracode Container/IaC/Secrets Scanning Action runs the Veracode-CLI as an action on any GitHub pipeline
 
 ## About
